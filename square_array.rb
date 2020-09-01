@@ -1,9 +1,10 @@
 def square_array(numbers)
-  
+  result = Array.new
   numbers.each do |num|
-    num ** 2 
+    result = num ** 2 
     
   end
+  return result
 end
-def new_array(numbers)
+
   
