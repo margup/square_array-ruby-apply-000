@@ -4,7 +4,6 @@ def square_array(numbers)
     num ** 2 
     result = num
     
-    
-  end
   puts result[]
+  end
 end
